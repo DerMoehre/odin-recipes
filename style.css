@@ -1,0 +1,31 @@
+body{
+    background-color: #331D2C;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: aliceblue;
+}
+
+.ingredients,
+.header,
+.description{
+    background-color: #A78295;
+    border: 5px solid #EFE1D1;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
+.description{
+    margin-bottom: 10px;
+}
+
+.footer{
+    background-color: #EFE1D1;
+    color: #331D2C;
+}
+
+.footer a{
+    color: #331D2C;
+}
