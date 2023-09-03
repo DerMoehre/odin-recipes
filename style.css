@@ -8,6 +8,11 @@ a{
     color: aliceblue;
 }
 
+.img-container{
+    width: 400px;
+    margin: 0 auto;
+}
+
 .ingredients,
 .header,
 .description{
@@ -24,6 +29,7 @@ a{
 .footer{
     background-color: #EFE1D1;
     color: #331D2C;
+    padding-top: 15px;
 }
 
 .footer a{
